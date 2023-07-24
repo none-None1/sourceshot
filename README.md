@@ -22,6 +22,10 @@ sshot -i test.py -l python -o code.png -b 00FF00FF0000 # Red code background col
 sshot -i test.py -l python # Show the image in a tkinter window.
 ```
 
+Here is a picture of a C++ program generated using this tool:
+![](https://i.postimg.cc/vThsBYJh/rc.png)
+
+
 It is also supported to set the background image of code, like:
 
 ```python
