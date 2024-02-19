@@ -1,3 +1,5 @@
+[![Downloads](https://static.pepy.tech/badge/sourceshot)](https://pepy.tech/project/sourceshot) [![Downloads](https://static.pepy.tech/badge/sourceshot/month)](https://pepy.tech/project/sourceshot) [![Downloads](https://static.pepy.tech/badge/sourceshot/week)](https://pepy.tech/project/sourceshot)
+
 The purpose of this package is taking pictures of code.
 
 To run sourceshot, do
